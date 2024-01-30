@@ -1,2 +1,4 @@
-# sj-s17-hu-testprojects
-Skills Junior versenyfeladatok archívuma
+# Skills Junior webfelesztő kategória versenyfeladatok archívuma
+## Skills Junior 2024
+- 1. forduló
+
